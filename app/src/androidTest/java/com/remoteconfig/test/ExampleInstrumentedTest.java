@@ -1,4 +1,4 @@
-package com.remoteconfig.test.remoteconfig;
+package com.remoteconfig.test;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
